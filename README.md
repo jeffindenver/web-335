@@ -1,4 +1,5 @@
 # web-335
-Contributors  
-Professor Krasso  
-Jeff Shepherd
+Introduction to NoSQL
+# Contributors  
+Professor Krasso - Bellevue University  
+Jeff Shepherd - Bellevue University
