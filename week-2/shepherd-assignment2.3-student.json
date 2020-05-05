@@ -1,0 +1,10 @@
+{
+  "_id": "1001",
+  "first_name": "Joe",
+  "last_name": "Average",
+  "mi": "A",
+  "enrollments": [{
+      "enroll_id": "001"
+    }
+  ]
+}
