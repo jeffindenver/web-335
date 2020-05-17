@@ -1,0 +1,24 @@
+{
+  "isbn": "1234567890",
+  "name": "The Fellowship of the Ring",
+  "price": {
+    "vaule": 2499,
+    "unit": "pennies"
+  },
+  "author": {
+    "fName": "J.R.R",
+    "lName": "Tolkien",
+    "email": "tolkien@afterlife.com",
+    "phone": null
+  },
+  "publisher": {
+    "name": "Random House",
+    "publisher_code": "1001A",
+    "address": {
+      "street": "1000 Wall St",
+      "city": "New York City",
+      "state": "NY",
+      "postal_code": "10025"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "1001",
+  "first_name": "Joe",
+  "last_name": "Average",
+  "date_of_birth": "1985-03-11T12:00:00.000-05:00",
+  "user_name": "DarthDad",
+
+  "roles": [{
+    "admin": {
+      "permissions": [{
+          "write_permission": true
+        },
+        {
+          "delete_permission": true
+        }
+      ]
+    },
+    "user": {
+      "permissions": [{
+        "read_permission": true
+      }]
+    }
+  }]
+}
