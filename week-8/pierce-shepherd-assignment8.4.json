@@ -1,0 +1,51 @@
+{
+  "user_id": "8675309",
+  "email": "jenny@aol.com",
+  "payment_method": "debit",
+
+  "dvr": [{
+      "recording_1": "Seinfeld: The Pony Remark"
+    },
+    {
+      "recording_2": "Star Trek: The Wrath of Khan"
+    },
+    {
+      "recording_3": "Friends: The One with the Jellyfish"
+    }
+  ],
+
+  "favorites": [{
+      "_id": 3001,
+      "title": "Seinfeld"
+    },
+    {
+      "_id": 6002,
+      "title": "Golden Girls"
+    },
+    {
+      "_id": 9003,
+      "title": "Star Trek"
+    }
+  ],
+
+  "recently_watched": [{
+      "_id": 3001
+    },
+    {
+      "_id": 6002
+    },
+    {
+      "_id": 9003
+    }
+  ],
+
+  "favorite_genres": [{
+    "genre_id": 101
+  }, {
+    "genre_id": 102
+  }, {
+    "genre_id": 103
+  }]
+
+
+}
